@@ -6,7 +6,7 @@ A Food An Recipe Suggestion App with a Revenue Model for a client in Netherlands
 <img src="ScreenShorts/prehome.png" width="256"> <img src="ScreenShorts/home.png"  width="256"> <img src="ScreenShorts/menu.png" width="256"> <img src="ScreenShorts/lefthome.png" width="256"> <img src="ScreenShorts/righthome.png" width="256"> <img src="ScreenShorts/account.png"  width="256"><img src="ScreenShorts/favourite.png"  width="256"> 
 
 ## Review
-<img src="ScreenShorts/review.jpeg" width="256">
+<img src="ScreenShorts/review.jpeg" width="512">
 
 ## Try out Thuisgemaakt?
 
